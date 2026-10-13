@@ -1,0 +1,15 @@
+Minecraft;Mojang;2011;Sandbox;9.0;300000000
+GTA V;Rockstar Games;2013;Akció;9.5;200000000
+The Witcher 3;CD Projekt Red;2015;RPG;9.8;50000000
+Red Dead Redemption 2;Rockstar Games;2018;Akció;9.7;65000000
+Cyberpunk 2077;CD Projekt Red;2020;RPG;8.5;30000000
+Terraria;Re-Logic;2011;Sandbox;9.2;44000000
+Counter-Strike 2;Valve;2023;FPS;8.8;40000000
+FIFA 23;EA;2022;Sport;8.0;30000000
+Forza Horizon 5;Xbox Game Studios;2021;Verseny;9.1;40000000
+Among Us;InnerSloth;2018;Party;8.5;500000000
+Fortnite;Epic Games;2017;Battle Royale;8.7;500000000
+League of Legends;Riot Games;2009;MOBA;9.0;150000000
+Valorant;Riot Games;2020;FPS;8.6;25000000
+Overwatch 2;Blizzard Entertainment;2022;FPS;8.0;50000000
+The Sims 4;Electronic Arts;2014;Szimuláció;8.3;20000000
